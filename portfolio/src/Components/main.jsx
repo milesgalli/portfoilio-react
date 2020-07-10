@@ -8,12 +8,12 @@ import Portfolio from './Pages/Portfolio';
 
 
 const Main = () => (
- <switch>
+ <Switch>
   <Route exact path = "/" component = {Home}/>
   <Route exact path = "/about" component = {About}/>
   <Route exact path = "/contact " component = {Contact}/>
   <Route exact path = "/portfolio" component = {Portfolio}/>
- </switch>
+ </Switch>
 )
 
 
