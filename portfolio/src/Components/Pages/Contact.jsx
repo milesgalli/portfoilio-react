@@ -37,8 +37,6 @@ class Contact extends Component {
                   </ListItemContent>
                 </ListItem>
 
-  
-
 
               </List>
             </div>

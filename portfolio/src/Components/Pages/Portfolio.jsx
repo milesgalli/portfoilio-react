@@ -114,7 +114,9 @@ class Portfolio extends Component {
          Thus a web application that uses Willy Weather API to recommend best surf sports in the Perth metropolitan area has been developed
         </CardText>
         <CardActions border>
+          
           <Button colored>GitHub</Button>
+
           <Button colored>Live Demo</Button>
         </CardActions>
         <CardMenu style={{ color: "#fff" }}>
